@@ -1,0 +1,144 @@
+
+body {
+  position: relative;
+  color: white;
+    margin: 0 auto;
+}
+
+/* Style Of Header */
+
+h1 {font-family: 'Exo 2', sans-serif; 
+   padding-left: 85px;
+}
+    {
+  letter-spacing: 1px;
+  text-transform: uppercase; }
+
+h2 {font-family: 'Exo 2', sans-serif; 
+   padding-left: 85px;
+   position: relative;bottom:95px;
+}
+    {
+  letter-spacing: 1px;
+  text-transform: uppercase; }
+
+h3 {font-family: 'Exo 2', sans-serif; 
+      font-size: 22px;
+   padding-left: 85px;
+}
+    {
+  letter-spacing: 1px;
+  text-transform: uppercase; 
+    position: relative;
+}
+
+
+    
+/* Style Of Paragraphs */
+
+p {
+  font-size: 16px;
+  font-family: 'Exo 2', sans-serif; 
+  line-height: 1.5;
+  margin: 0 0 25px; }
+  @media (min-width: 768px) {
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+      margin: 0 0 35px; } }
+
+/* Button Hover*/
+    #mainNav .navbar-nav .nav-item:hover {
+      color: fade(white, 80%);
+      outline: none;
+      background-color: transparent; 
+}
+      
+      /* Style of NavBar */  
+    #mainNav {
+      padding-top: 20px;
+      padding-bottom: 100px;
+      border-bottom: none;
+      background: #3a4879; 
+      }
+
+.nav-item {
+          position: relative;left: 240px;
+        padding-left: 60px;
+        border: 35px solid #586383;
+}
+  
+/* Controls The Title Box */
+.sectionTitle {
+     background-color:#3a4879;
+    padding:25px;
+    position: relative;top: 80px;
+}
+
+
+/* Controls The Body Box */
+.sectionBody {
+       background-color:#586383;
+    padding:25px;
+    position: relative;top: 80px;  
+}
+
+/* Controls The Paragraph Box */
+.sectionPara {
+       background-color:#273359;
+    padding:25px; 
+        border-bottom: 35px solid #586383;
+}
+
+.html {
+  background-color: #273359; 
+display: table;
+  width: 100%;
+  height: 1750px;
+}
+
+.boxmodel {
+  background-color:#273359; 
+display: table;
+  width: 100%;
+  height: 1800px;
+}
+
+.fundamentals {
+  background-color:#273359; 
+display: table;
+  width: 100%;
+  height: 1800px;
+}
+
+.fundamentals2 {
+  background-color:#273359; 
+display: table;
+  width: 100%;
+  height: 1900px;
+}
+
+footer {
+  background-color: #3a4879;    
+  padding: 50px;
+}
+
+.picture{
+position: relative; left: 350px;
+}
+
+.picture2{
+position: relative; left: 550px;
+}
+
+.picture3{
+position: relative; left: 750px;
+}
+
+.picture4{
+position: relative; left: 950px;
+}
+
+.picture5{
+position: relative; left: 1150px;
+}
